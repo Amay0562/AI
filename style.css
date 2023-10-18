@@ -1,0 +1,93 @@
+.lblue{
+	background-color: lightblue;
+}
+.yellow{
+	background-color: yellow;
+}
+.red{
+	background-color: red;
+}
+.gray{
+	background-color: lightgray;
+}
+.green{
+	background-color: green;
+}
+.orange{
+	background-color: orange;
+}
+h1{
+			color: darkslateblue;
+		}
+		p{
+			color: orangered;
+		}
+		table{
+			border: 5px purple dashed;
+		}
+
+.intro{
+			color: darkblue;
+		}
+		
+
+
+		li{
+			color: blue;
+		}
+
+.p1{
+	
+			color: blue;
+		
+}
+
+.l1{
+	color:maroon;
+}
+
+.h2{
+			color: orange;
+		}
+		
+		li{
+			color: maroon;
+		}
+
+.p2{
+	color: yellow;
+}
+
+.h21{
+			color: blue;
+
+		}
+
+.h3{
+	color: turquoise;
+}
+
+		.h4{
+			color: blue;
+		}
+		.h22{
+			color: yellow;
+		}
+		.p3{
+			color: yellowgreen;
+		}
+		.p4{
+			color: yellow;
+		}
+		.l2{
+			color: orangered;
+			background-color: yellow;
+			width: 20%;
+			font-family: cursive;
+			font-style = "italic"
+
+		}
+		.s1{
+			border: 2px dotted purple;
+
+		}
